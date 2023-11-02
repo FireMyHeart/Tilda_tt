@@ -1,4 +1,4 @@
-#Тестовое задание в Tilda Publishing
+# Тестовое задание в Tilda Publishing
 
 В рамках отклика на вакансию **Младший тестировщик / Junior QA** в **Tilda Publishing** я проводила тестирование сайта https://nexaflora.tilda.ws/
 
